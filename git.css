@@ -24,6 +24,7 @@ nav h1{
     font-size: 35px;   
     font-size: inline;
     color: #eb7620;
+    justify-content: center;
 }
 nav ul{
     float: right;
@@ -61,7 +62,7 @@ nav ul li .active{
     font-weight: 800;
     margin-bottom: 25px;
 }
-.article{
+.article p{
     font-size: 18px;
     color: #7e7e7e;
     line-height: 1.5;
